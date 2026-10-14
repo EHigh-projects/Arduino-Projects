@@ -1,5 +1,5 @@
 % Program Name : Two Way Traffic Light With Protected and Unprotected Left Turn
-% Program Description : Instructs an Arduino Uno to activate pins in a specific order to toggle on and off LEDs of varying colors, mimicing a traffic light assembly
+% Program Description : Instructs an Arduino Uno to send voltage through pins in a specific order to toggle on and off LEDs of varying colors, mimicing a traffic light assembly
 
 % Name : Ethan High (Ejhigh@mtu.edu)
 % Section: L24
