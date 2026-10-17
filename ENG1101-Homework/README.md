@@ -1,0 +1,4 @@
+# ENG1101-Homework
+This folder contains all of my work for Engineering 1101 projects and assignemnts involving MATLAB and or Arduino. In this regard, it should provide a convinient way for me to share my projects with my instructors and teammates. 
+
+Fair warning, because this folder contains many of my very first projects with MATLAB, some of the code showcased here is pretty ugly. Occasionally, because of this, I will spend some time revisiting and re-coding these assigments from the ground up in a more refined and fully-thought out way. For any assignemnts for which this is the case, I will include a link in their respective README file pointing to the folder that contains the revisited version of the code (often located in it's own project folder).
